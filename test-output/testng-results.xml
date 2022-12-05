@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-22T17:28:01 IST" name="Suite" finished-at="2022-09-22T17:28:06 IST" duration-ms="5178">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T17:28:01 IST" name="Test" finished-at="2022-09-22T17:28:06 IST" duration-ms="5178">
+      <class name="testcases.testloginfunctionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.testloginfunctionality@7e6ef134]" started-at="2022-09-22T17:28:01 IST" name="setup" finished-at="2022-09-22T17:28:03 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testcases.testloginfunctionality@7e6ef134]" started-at="2022-09-22T17:28:03 IST" name="login" finished-at="2022-09-22T17:28:06 IST" duration-ms="2521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.testloginfunctionality@7e6ef134]" started-at="2022-09-22T17:28:06 IST" name="close" finished-at="2022-09-22T17:28:06 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.testloginfunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
